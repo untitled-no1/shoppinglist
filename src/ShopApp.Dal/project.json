@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+
+  "dependencies": {
+    "MySql.Data.EntityFrameworkCore": "7.0.7-m61",
+    "ShopApp.Domain": "1.0.0",
+    "NETStandard.Library": "1.6.1"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
